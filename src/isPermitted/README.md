@@ -1,6 +1,6 @@
 # isPermitted `es6`
 
-Check if the given user role have permission
+Checks if the given user role have permission
 
 ## Examples
 
